@@ -42,4 +42,3 @@ class ImagesListViewController: UIViewController {
             return imageListCell
         }
     }
-
